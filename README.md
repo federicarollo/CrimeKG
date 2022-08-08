@@ -1,5 +1,5 @@
 # CrimeKG
-Knowledge Graphs for Community Detection in Textual Data
+<b>Knowledge Graphs for Community Detection in Textual Data</b>
 
 
 This repository contains a notebook for the construction of Knowledge Graphs from textual data (i.e., freeform documents) in Neo4j.
